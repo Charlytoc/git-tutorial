@@ -38,3 +38,4 @@ Este comando te muestra todas las fotos que has tomado de tu cuaderno, para que 
 
 
 ## ¿Qué es un PR?
+Un PR es una vaina loca
