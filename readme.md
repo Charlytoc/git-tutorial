@@ -35,3 +35,6 @@ Este comando es como tomar una foto de tu cuaderno en el momento en que lo usas.
 git log
 ```
 Este comando te muestra todas las fotos que has tomado de tu cuaderno, para que puedas ver cómo ha cambiado tu historia con el tiempo.
+
+
+## ¿Qué es un PR?
